@@ -4,8 +4,15 @@
         <description><![CDATA[MoVR]]></description>
         <link>https://thegrid.ai/movr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 10:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 10:57:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/movr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rendering the Metaverse with Otoy's Volumetric Lightfield Streaming - Road to VR]]></title>
+            <description><![CDATA[<article><h1>Rendering the Metaverse with Otoy's Volumetric Lightfield Streaming - Road to VR</h1><p>Digital lightfields are a cutting-edge technology that can render photorealistic VR scenes, and Otoy has been a pioneer of the rendering and compression techniques to deal with the massive amounts of data required to create them. Their OctaneRender is GPU-based, physically correct renderer that has been integrated into 24 special effects industry tools with support for Unity and Unreal Engine on the way.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2782d790b7bb59dc16210923da4c9066/noop.jpg?input=http%3A%2F%2Fwww.roadtovr.com%2Fwp-content%2Fuploads%2F2016%2F08%2Frender-the-metaverse-2.jpg"></article>]]></description>
+            <link>http://www.roadtovr.com/rendering-metaverse-otoys-volumetric-lightfield-streaming/?utm_source=Road+to+VR+Daily+News+Roundup&amp;utm_campaign=09ce79a19b-RtoVR_RSS_Daily_Newsletter&amp;utm_medium=email&amp;utm_term=0_e2e394ad33-09ce79a19b-168177397</link>
+            <guid isPermaLink="false">5461e381-ac5d-4192-8289-843b8e5ff574</guid>
+            <pubDate>Wed, 24 Aug 2016 10:57:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lights, Camera, Virtual Reality!]]></title>
             <description><![CDATA[<article><h1>Lights, Camera, Virtual Reality!</h1><p>Janicza Bravo makes short films about loneliness. In one, Michael Cera plays an abrasive paraplegic who can't get lucky. In another, Gaby Hoffmann plays a phone stalker for whom the description "comes on too strong" is not strong enough.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/98bb03a90db3a06741a7094fc53ef3cf/noop.jpg?input=http%3A%2F%2Fwww.newyorker.com%2Fwp-content%2Fuploads%2F2016%2F04%2F160425_r28031-1200x630-1460572720.jpg"></article>]]></description>
