@@ -4,8 +4,15 @@
         <description><![CDATA[VR NEWS]]></description>
         <link>https://thegrid.ai/movr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 11:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 11:21:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/movr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You can now watch Hulu in VR on the Oculus Rift]]></title>
+            <description><![CDATA[<article><h1>You can now watch Hulu in VR on the Oculus Rift</h1><p>The Oculus Rift has been out for months now, and one of the more curious quirks of its library is a conspicuous lack of video content - especially when compared to Samsung's Gear VR, which also uses the Oculus store.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fdfdb67fe949786a723e45c6f017d0d3/noop.png?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FImpxPYWy4qmsj1muCLU3XLI0J70%3D%2F0x224%3A2500x1630%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F49871337%2Fjbareham_160322_0986_0235_fin.0.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/6/15/11951434/hulu-oculus-rift-app-support-available</link>
+            <guid isPermaLink="false">cd1851f6-ff81-4e1c-802d-603a1ac6c747</guid>
+            <pubDate>Wed, 24 Aug 2016 11:20:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Virtual Reality Could Be Film's Next 'New Wave']]></title>
             <description><![CDATA[<article><h1>Virtual Reality Could Be Film's Next 'New Wave'</h1><p>A good movie can transport audiences, taking them to other worlds and briefly immersing people in characters' lives. And with virtual-reality technology, movie writers and directors have more tools at their disposal than ever before to create immersive experiences.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e12ed158af547040fda85bc5d0c43a2/noop.jpg?input=http%3A%2F%2Fwww.livescience.com%2Fimages%2Fi%2F000%2F084%2F282%2Foriginal%2Ffilmmaking-with-vr-01.jpg%3Finterpolation%3Dlanczos-none%26downsize%3D*%3A1000"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://vrscout.com/news/crazy-vr-world-china-joy-shanghai/?utm_source=VRScout+Scouting+Report&amp;utm_campaign=62d65133cf-VRScout_July-28-2016&amp;utm_medium=email&amp;utm_term=0_f3642cd298-62d65133cf-160475985&amp;ct=t(VRScout_July-28-2016)&amp;mc_cid=62d65133cf&amp;mc_eid=bec8c396aa</link>
             <guid isPermaLink="false">a647b0d5-cfa0-409b-93c8-b1dc579f2276</guid>
             <pubDate>Wed, 24 Aug 2016 10:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Swayze Effect]]></title>
-            <description><![CDATA[<article><h1>The Swayze Effect</h1><p>The gospel around here at Story Studio is to deliver a compelling, immersive, evocative VR experience by telling a great story. As a studio founded by former Pixar team members, we believe in a simple mantra: "Story is King!" We even put it up on the wall.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4732fa27490749d32c5f10424b18667/noop.jpg?input=https%3A%2F%2Fs3.amazonaws.com%2Fstatic.oculus.com%2Fwebsite%2F2015%2F11%2Fswayze-thumbnail.jpg"></article>]]></description>
-            <link>https://storystudio.oculus.com/en-us/blog/the-swayze-effect/</link>
-            <guid isPermaLink="false">4dc4245f-7c46-40c8-8a0e-070a48a5955d</guid>
-            <pubDate>Wed, 24 Aug 2016 10:57:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
