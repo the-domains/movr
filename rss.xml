@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MoVR]]></title>
-        <description><![CDATA[MoVR]]></description>
+        <title><![CDATA[VR NEWS]]></title>
+        <description><![CDATA[VR NEWS]]></description>
         <link>https://thegrid.ai/movr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 11:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 11:20:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/movr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Look Inside 'The Void' Ghostbusters: Dimension, Opens July 1st - Road to VR]]></title>
+            <description><![CDATA[<article><h1>First Look Inside 'The Void' Ghostbusters: Dimension, Opens July 1st - Road to VR</h1><p>The Void are one of the first mixed reality experience specialists and their first big experience opens to the public July 1st at Madame Tussauds New York. It's called Ghostbusters: Dimension and here's a sneak peak.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb7d19d3cace4defd7851b0268f1d5c1/noop.jpg?input=http%3A%2F%2Fwww.roadtovr.com%2Fwp-content%2Fuploads%2F2016%2F06%2FTHEVOID-GB-arnolds-apt-logo.jpg"></article>]]></description>
+            <link>http://www.roadtovr.com/first-look-inside-the-void-ghostbusters-dimension-opens-june-30th/?utm_source=Road+to+VR+Daily+News+Roundup&amp;utm_campaign=339c858fa3-RtoVR_RSS_Daily_Newsletter&amp;utm_medium=email&amp;utm_term=0_e2e394ad33-339c858fa3-168177397</link>
+            <guid isPermaLink="false">4a0edf21-ca02-4de0-b6d1-7ef86deabda4</guid>
+            <pubDate>Wed, 24 Aug 2016 11:20:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Situational Knowledges' in VR Narrative: The Role of Place & Perspective]]></title>
             <description><![CDATA[<article><h1>'Situational Knowledges' in VR Narrative: The Role of Place & Perspective</h1><p>Catherine Rehwinkel is working on creating a conceptual framework that enables storytellers to storyboard linear stories in VR. She's a filmmaker who recently finished a master's degree computational & systems thinking at NYU.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/650f98a9cc7164721122391b91a518da/noop.jpg?input=http%3A%2F%2Fwww.roadtovr.com%2Fwp-content%2Fuploads%2F2016%2F07%2FCatherine-Rehwinkel-banner.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://www.digi-capital.com/news/2016/04/the-reality-of-120-billion-arvr-business-models/#.V5SDMLh95aQ</link>
             <guid isPermaLink="false">b54022b8-e726-4db0-86cf-42a472899860</guid>
             <pubDate>Wed, 24 Aug 2016 11:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tim Cook, the interview: Running Apple 'is sort of a lonely job']]></title>
-            <description><![CDATA[<article><h1>Tim Cook, the interview: Running Apple 'is sort of a lonely job'</h1><p>You've been more outspoken on social issues than any other CEO of a company your size. Do you think companies have a responsibility to publicly take on such issues as civil rights and climate change? I think everybody has to make their own decision about it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fb3d087c60741df316def052502c4ec7/noop.jpg?input=http%3A%2F%2Fwww.washingtonpost.com%2Fsf%2Fbusiness%2Fwp-content%2Fuploads%2Fsites%2F20%2F2016%2F08%2FGettyImages-4953118531471020430.jpg"></article>]]></description>
-            <link>http://www.washingtonpost.com/sf/business/wp/2016/08/13/2016/08/13/tim-cook-the-interview-running-apple-is-sort-of-a-lonely-job/</link>
-            <guid isPermaLink="false">833df3db-0000-43bc-98cc-cd973ca50d76</guid>
-            <pubDate>Wed, 24 Aug 2016 10:58:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why the Pokémon trading card game still rocks 10 years later (updated)]]></title>
