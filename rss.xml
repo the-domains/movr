@@ -4,8 +4,15 @@
         <description><![CDATA[MoVR]]></description>
         <link>https://thegrid.ai/movr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 10:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 10:58:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/movr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why the Pokémon trading card game still rocks 10 years later (updated)]]></title>
+            <description><![CDATA[<article><h1>Why the Pokémon trading card game still rocks 10 years later (updated)</h1><p>In the competitive field of trading card games, few stick around long enough to make any sort of lasting impression, especially those that spawned from existing entertainment franchises. And continuing to thrive in 2016 means competing with far more affordable electronic card games like Hearthstone: Heroes of Warcraft, which leads a $1.2 billion market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/00028f547c15d92ad768b8fd273b371a/noop.png?input=http%3A%2F%2F1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2016%2F03%2FPok%25C3%25A9mon_Trading_Card_Game_logo-780x400.png"></article>]]></description>
+            <link>http://venturebeat.com/2016/08/07/why-the-pokemon-trading-card-game-still-rocks-10-years-later/</link>
+            <guid isPermaLink="false">d4de9c0f-6212-4e7c-97ed-b58e10c9ae8f</guid>
+            <pubDate>Wed, 24 Aug 2016 10:58:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rendering the Metaverse with Otoy's Volumetric Lightfield Streaming - Road to VR]]></title>
             <description><![CDATA[<article><h1>Rendering the Metaverse with Otoy's Volumetric Lightfield Streaming - Road to VR</h1><p>Digital lightfields are a cutting-edge technology that can render photorealistic VR scenes, and Otoy has been a pioneer of the rendering and compression techniques to deal with the massive amounts of data required to create them. Their OctaneRender is GPU-based, physically correct renderer that has been integrated into 24 special effects industry tools with support for Unity and Unreal Engine on the way.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2782d790b7bb59dc16210923da4c9066/noop.jpg?input=http%3A%2F%2Fwww.roadtovr.com%2Fwp-content%2Fuploads%2F2016%2F08%2Frender-the-metaverse-2.jpg"></article>]]></description>
