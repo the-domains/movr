@@ -1,4 +1,3 @@
-layout_spectrum: 0.23360869311727583
 typography_spectrum: 0.8088505386840552
 color:
   brandStrength: 0.4114252005238086
@@ -11,8 +10,11 @@ color:
     - '#F2CA80'
     - '#5E5A59'
     - '#0D0D0D'
+layout_spectrum: 0.23360869311727583
 name: MoVR
 navigation:
   - name: 'Tim Cook, the interview: Running Apple ''is sort of a lonely job'''
     id: 833df3db-0000-43bc-98cc-cd973ca50d76
     type: content
+title: VR NEWS
+description: FOR INTERESTED PEOPLE
