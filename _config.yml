@@ -1,21 +1,4 @@
-name: MoVR
-favicon: null
-layout_spectrum: 0.91753
 typography_spectrum: 0.58368
-title: VR NEWS
-description: FOR INTERESTED PEOPLE
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#73603D'
@@ -27,4 +10,21 @@ color:
   lightness: 1
   saturation: 0.3131175031885505
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.91753
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: MoVR
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: VR NEWS from the WEB
+description: FOR INTERESTED PEOPLE
 purpose: []
