@@ -4,8 +4,15 @@
         <description><![CDATA[VR NEWS]]></description>
         <link>https://thegrid.ai/movr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 11:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 11:21:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/movr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Virtual Reality Could Be Film's Next 'New Wave']]></title>
+            <description><![CDATA[<article><h1>Virtual Reality Could Be Film's Next 'New Wave'</h1><p>A good movie can transport audiences, taking them to other worlds and briefly immersing people in characters' lives. And with virtual-reality technology, movie writers and directors have more tools at their disposal than ever before to create immersive experiences.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e12ed158af547040fda85bc5d0c43a2/noop.jpg?input=http%3A%2F%2Fwww.livescience.com%2Fimages%2Fi%2F000%2F084%2F282%2Foriginal%2Ffilmmaking-with-vr-01.jpg%3Finterpolation%3Dlanczos-none%26downsize%3D*%3A1000"></article>]]></description>
+            <link>http://www.livescience.com/55150-making-movies-in-virtual-reality.html</link>
+            <guid isPermaLink="false">e3b7d2a8-aae8-432e-aa30-7d2a2bc6fc9a</guid>
+            <pubDate>Wed, 24 Aug 2016 11:20:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Look Inside 'The Void' Ghostbusters: Dimension, Opens July 1st - Road to VR]]></title>
             <description><![CDATA[<article><h1>First Look Inside 'The Void' Ghostbusters: Dimension, Opens July 1st - Road to VR</h1><p>The Void are one of the first mixed reality experience specialists and their first big experience opens to the public July 1st at Madame Tussauds New York. It's called Ghostbusters: Dimension and here's a sneak peak.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb7d19d3cace4defd7851b0268f1d5c1/noop.jpg?input=http%3A%2F%2Fwww.roadtovr.com%2Fwp-content%2Fuploads%2F2016%2F06%2FTHEVOID-GB-arnolds-apt-logo.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://storystudio.oculus.com/en-us/blog/the-swayze-effect/</link>
             <guid isPermaLink="false">4dc4245f-7c46-40c8-8a0e-070a48a5955d</guid>
             <pubDate>Wed, 24 Aug 2016 10:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theater Can Fix VR's Storytelling Problem]]></title>
-            <description><![CDATA[<article><h1>Theater Can Fix VR's Storytelling Problem</h1><p>We know virtual reality is finally here. We know it is the next step in great entertainment shifts following radio, motion pictures, television and the I nternet . We know VR will be great for gaming. We know VR will change how we tell stories.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e7db5303ae73250b659feb74c8aacc7c/noop.jpg?input=http%3A%2F%2Fuploadvr.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fsleep-no-more.jpg"></article>]]></description>
-            <link>http://uploadvr.com/virtual-reality-storytelling-problem-theater-will-save/</link>
-            <guid isPermaLink="false">d7d5974f-7733-451d-9366-73a807729e5a</guid>
-            <pubDate>Wed, 24 Aug 2016 10:57:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
