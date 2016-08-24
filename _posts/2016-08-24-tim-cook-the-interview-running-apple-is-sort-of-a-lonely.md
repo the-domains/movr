@@ -24,17 +24,14 @@ description: >-
   their own decision about it.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.washingtonpost.com/sf/business/wp/2016/08/13/2016/08/13/tim-cook-the-interview-running-apple-is-sort-of-a-lonely-job/
 title: 'Tim Cook, the interview: Running Apple ''is sort of a lonely job'''
-datePublished: '2016-08-24T10:58:11.137Z'
-dateModified: '2016-08-24T10:32:23.624Z'
+datePublished: '2016-08-24T11:12:32.650Z'
+dateModified: '2016-08-24T11:12:32.110Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-tim-cook-the-interview-running-apple-is-sort-of-a-lonely.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: tim-cook-the-interview-running-apple-is-sort-of-a-lonely/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
